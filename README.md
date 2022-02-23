@@ -1,2 +1,2 @@
-# Live gymnasiam temolete
+# Live gymnasiam templete
 Live templete
